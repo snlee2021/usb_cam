@@ -20,6 +20,7 @@ catkin_make
 
 
 usb_cam-test.launch edit===>  /dev/video0, image_width"와 "image_height
+
 usb_cam_node.cpp ====> /dev/video0, image_width"와 "image_height
 **1920x1080
 
